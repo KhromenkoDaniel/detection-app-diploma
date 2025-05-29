@@ -1,1 +1,8 @@
-/Diploma/datasets/Aer
+/Diploma/datasets/
+/Diploma/venv/
+/Diploma/backend/venv/
+/Diploma/backend/__pycache__/
+/Diploma/backend/datasets/
+/Diploma/backend/logs/
+
+/runs
